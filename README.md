@@ -1,0 +1,1 @@
+Домашняя работа для курса coursera.org/learn/bayesian-methods-in-machine-learning
